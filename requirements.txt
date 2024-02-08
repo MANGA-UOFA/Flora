@@ -1,0 +1,15 @@
+jax==0.4.20
+flax
+optax
+tensorboard
+transformers
+datasets
+evaluate
+tqdm
+sacrebleu
+rouge_score
+nltk
+torch
+hydra-core
+wandb
+mlorax
